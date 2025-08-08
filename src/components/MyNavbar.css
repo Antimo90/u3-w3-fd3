@@ -1,0 +1,12 @@
+/* Rimuove il bordo del menu a tendina */
+.dropdown-menu {
+  border: none;
+}
+
+/* Rende rosso il separatore orizzontale */
+.dropdown-divider {
+  border-top-color: #e06c75;
+}
+.navbar-nav .dropdown-menu {
+  position: absolute;
+}
