@@ -32,7 +32,7 @@ const NewUscite = () => {
     <>
       <Container fluid>
         <Row>
-          <Col lg={12}>
+          <Col lg={12} xl={12}>
             <h3 className="text-white mt-5 mb-3">Nuove uscite</h3>
           </Col>
           <Col>

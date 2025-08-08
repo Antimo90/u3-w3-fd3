@@ -5,6 +5,7 @@ import MyNovita from "./components/MyNovita";
 import MyNuoviEp from "./components/MyNuoviEp";
 import AltroDaEsplorare from "./components/AltroDaEsplorare";
 import NewUscite from "./components/NewUscite";
+import MyFooter from "./components/MyFooter";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <MyNuoviEp />
       <NewUscite />
       <AltroDaEsplorare />
+      <MyFooter />
     </>
   );
 }
